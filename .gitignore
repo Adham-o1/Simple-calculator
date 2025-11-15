@@ -1,0 +1,26 @@
+# VS Code settings
+.vscode/
+
+# Build folders
+build/
+bin/
+out/
+*.exe
+*.obj
+*.o
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio
+.vs/
+
+# System
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
